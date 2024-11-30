@@ -23,7 +23,7 @@
 20	add
 21	commit
 22	checkout lola
-23	stash drop
+23	stash apply
 25	add
 26	commit
 27	checkout master
