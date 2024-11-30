@@ -12,4 +12,7 @@
 4	checkout paco
 13	checkout
 14	fast forward
+16	add
+17	commit
+18	merge --no-ff		merge recursivo con conflicto
 
