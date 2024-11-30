@@ -1,10 +1,15 @@
 %%==================================================================%%
 %%              Métodos de Desarrollo - Test de Git                 %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Sanchez Barreiro, Pablo              %%
+%% Alumno (Apellidos, Nombre): Javier Arce del Campo              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ===============================
+1	clone
+2	branch paco
+3	branch lola
+4	checkout paco
 13	checkout
 14	fast forward
+
