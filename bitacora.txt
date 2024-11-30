@@ -10,9 +10,17 @@
 2	branch paco
 3	branch lola
 4	checkout paco
+6	add
+7	commit
+8	checkout lola
+10	add	
+11	commit
 13	checkout
 14	fast forward
 16	add
 17	commit
 18	merge --no-ff		merge recursivo con conflicto
-
+20	add
+21	commit
+22	checkout lola
+23	stash drop
